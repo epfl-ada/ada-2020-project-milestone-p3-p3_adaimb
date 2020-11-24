@@ -12,3 +12,8 @@ Does a drop in fertility follows the recession of 2008?
 In general when did fertility increased or dropped specifically ? 
 
 4. Proposed datasets :
+  a) Initial claims for unemployment benefits given by the TAs for p2 (merged_iclaims.csv)
+  b) Birth data in the US : https://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm?fbclid=IwAR0bH9Qg3sLpoXo9zs69ufGX9p2YflQNJ7Ge9L1NwY_Uwb-AEYsT3WHua5U 
+  c) Trend data for the modeling of the birth rates in the US : https://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm?fbclid=IwAR0bH9Qg3sLpoXo9zs69ufGX9p2YflQNJ7Ge9L1NwY_Uwb-AEYsT3WHua5U
+  
+  
