@@ -18,6 +18,7 @@ Does the model improve the prediction over the base model for the initial claims
 Is the model consistent with other topics and/or other time series ?
 
 **Q3**
+
 Does a drop in fertility follows the recession of 2008? In general when did fertility increased or dropped specifically ? 
 
 **4. Proposed datasets :**
@@ -29,13 +30,15 @@ Initial claims for unemployment benefits given by the TAs for p2 (merged_iclaims
 **Q2**
 
 a) Trends *Jobs* and *Unemployment* from 2004 to today: https://trends.google.com/trends/explore?date=all&geo=US&q=Jobs,%2Fm%2F07s_c
+
 b) Unemployment Insurance Weekly Claims Data : https://fred.stlouisfed.org/series/ICSA
 
 
 **Q3**
 
 a) Birth data in the US : https://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm?fbclid=IwAR0bH9Qg3sLpoXo9zs69ufGX9p2YflQNJ7Ge9L1NwY_Uwb-AEYsT3WHua5U 
-a) Trend data for the modeling of the birth rates in the US (*pregnancy*, *maternity*, *ovulation*): https://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm?fbclid=IwAR0bH9Qg3sLpoXo9zs69ufGX9p2YflQNJ7Ge9L1NwY_Uwb-AEYsT3WHua5U
+
+b) Trend data for the modeling of the birth rates in the US (*pregnancy*, *maternity*, *ovulation*): https://www.cdc.gov/nchs/data_access/Vitalstatsonline.htm?fbclid=IwAR0bH9Qg3sLpoXo9zs69ufGX9p2YflQNJ7Ge9L1NwY_Uwb-AEYsT3WHua5U
  
  **5.Methods**
 
