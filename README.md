@@ -52,31 +52,41 @@ Perform a seasonal autoregressive model on the birht rate dataset between 2004 a
 
  **Proposed timeline**
 
-Week 1 (Nov. 30th to Dec. 6th) 
+Week 1 (Nov. 30th to Dec. 6th)
+
 Questions 1 and 2. Seasonal autoregressive model on the initial claims dataset
-Result interpretations and figure 
+Results interpretation and figure.
 
 Week 2 (Dec. 7th to Dec. 13th) 
-Question 3. Seasonal autoregressive model on the exchange rate dataset. 
-Result interpretations and figure 
 
-Week 3 (Dec 14th to Dec 18th) 
+Question 3. Seasonal autoregressive model on the exchange rate dataset. 
+Results interpretation and figure. 
+
+Week 3 (Dec 14th to Dec 18th)
+
 Write the report and the pitch for the video. Make conclusions. 
 
 
 **Organization within the team**
 
 Week 1: 
+
 Victoria: builds the model and compute accuracy 
+
 David: makes the figures 
+
 Anastassia: Interpretation of the results 
 
 Week 2: 
+
 Victoria: Interpretation of the results 
+
 David: builds the model and compute accuracy 
+
 Anastassia: makes the figures
 
 Week 3: 
+
 All: write the report 
 
   
