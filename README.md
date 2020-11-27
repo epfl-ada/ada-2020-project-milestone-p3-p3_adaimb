@@ -4,7 +4,7 @@
 
 **2. Abstract :**
 
-We would like to add some figures to the existing paper. The first figure we would want to add is the same as Figure 2 but for the initial claims data set. Then we could do same kind of prediction for the same dataset (initial claims) but for another time series (for example 2011 to 2020). Those figures would allow us to further check the accuracy of the trend model and would support or not the theory of the authors. Furthermore, we can perform this forecasting method to another dataset. One which came to our mind is birth rate forecasting. Indeed, it is common knowledge that it is influenced by multiple indicators of the well-being in societies and this could be reflected by google trends. We will perform the same seasonal autoregressive model and see if google trends validates improves the model.
+We would like to add some figures to the existing paper. The first figure we would want to add is the same as Figure 2 but for the initial claims data set. Then we could do same kind of prediction for the same dataset (initial claims) but for another time series (for example 2011 to 2020). Those figures would allow us to further check the accuracy of the trend model and would support or not the theory of the authors. Furthermore, we can perform this forecasting method to another dataset. One which came to our mind is birth rate forecasting. Indeed, it is common knowledge that it is influenced by multiple indicators of the well-being in societies and this could be reflected by google trends. We will perform the same seasonal autoregressive model and see if google trends improves the model and confirm the author's theory. 
 
 
 **3. Research questions :**
