@@ -12,11 +12,11 @@ We would like to add some figures to the existing paper. The first figure we wou
 
 **Q1**
 
-Does the model improve the prediction over the base model for the initial claims data ?
+How can we improve the prediction model Google Trends using? Which parameters have a significant impact on the prediction?
 
 **Q2**
 
-Is the model consistent with other topics and/or other time series ?
+Is the model consistent with other time series ? Is the model accurate when we try to perform out-of-sample forecasting?
 
 **Q3**
 
@@ -46,15 +46,15 @@ We chose them basing us on the following paper (*Google Trends and the forecasti
 
 **Q1**
 
-Perform a seasonal autoregressive model on the initial claims dataset between 2007 and 2011 (base model) and then do the same with trends features. Compute the overall MAE and the MAE during the four periods described in Table 1 as turning points. 
+Perform a seasonal autoregressive model on the initial claims dataset between 2007 and 2011 (base model) and then do the same with trends features. Compute the overall MAE and the MAE during the four periods described in Table 1 as turning points. Perform parameters selections for the number of lag terms and the size of the training set in order to see what improves the forecasting. 
 
 **Q2**
 
-Perform a seasonal autoregressive model on the initial claims dataset between 2011 and 2020 (base model) and then do the same with trends features. Compute the overall MAE.
+Perform a seasonal autoregressive model on the initial claims dataset between 2011 and 2020 (base model) and then do the same with trends features. Compute the overall MAE. Perform out-of-sample forecasting to predict what happened in 2020 training the model over 2011-2019. Add another trend (Covid-19) to see if it improves the prediction. 
 
 **Q3**
 
-Perform a seasonal autoregressive model on the exchange rate dataset between 2004 and 2011 (base model) and then do the same with trends features *Euro/Dollar, Inflation and Prices*. Compute the overall MAE.
+Perform a seasonal autoregressive model on the exchange rate dataset between 2004 and 2011 (base model) and then do the same with trends features *Euro/Dollar, Inflation and Prices*. Compute the overall MAE, and analyze more in detail the impact of Google trends on the prediction of the recession periods, and see how can we improve it.
 
 
  **Proposed timeline**
@@ -78,22 +78,14 @@ Write the report and the pitch for the video. Make conclusions.
 
 **Week 1:** 
 
-Victoria: builds the model and compute accuracy 
-
-David: makes the figures 
-
-Anastassia: Interpretation of the results 
+David started the question 1 and 2 as the data collection. We all three realized the replication of Figure 1 of our paper, and we rethank about the questions that would lead our project to be more precise on what we want to do. 
 
 **Week 2:** 
 
-Victoria: Interpretation of the results 
-
-David: builds the model and compute accuracy 
-
-Anastassia: makes the figures
+Victoria focused on finishing and interpreting the results of questions 1 and 2. David and Anastassia answered to the question 3 and made the data vizualisation. 
 
 **Week 3:** 
 
-All: write the report 
+Building of the website with the data story, finish the details in the notebook. Write the pitch for the video and make the video. 
 
   
