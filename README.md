@@ -12,7 +12,7 @@ We would like to add some figures to the existing paper. The first figure we wou
 
 **Q1**
 
-How can we improve the prediction model Google Trends using? Which parameters have a significant impact on the prediction?
+How can we improve the prediction model using Google Trends? Which parameters have a significant impact on the prediction?
 
 **Q2**
 
